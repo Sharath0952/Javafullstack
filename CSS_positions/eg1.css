@@ -1,0 +1,27 @@
+.c1{
+    border: 3px solid black;
+    margin-bottom: 5px;
+    padding: 3px;
+    background-color: antiquewhite;
+}
+.c2{
+    border: 3px solid black;
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: rosybrown;
+    position: absolute;
+    top: 250px;
+ 
+}
+.c3{
+    border: 3px solid black;
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: brown;
+}
+.c4{
+    border: 3px solid black;
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: burlywood;
+}
