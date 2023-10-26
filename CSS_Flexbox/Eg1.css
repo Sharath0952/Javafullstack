@@ -1,0 +1,39 @@
+#id1 , .c1{
+    background-color: palegoldenrod;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    display: flex;
+    flex: 1;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+  }
+.c1:nth-child(1){
+    flex: 2;
+}
+#id2{
+    display: flex;
+}
+
+.c2{
+    border: 2px;
+    display: flex;
+    height: 250px;
+    flex: 1;
+    margin-bottom: 5px;
+    margin-right: 2px;
+    background-color: beige;
+    text-align: center;
+    text-decoration-color: blue;
+}
+#id3{
+    display: flex;
+}
+.c3{
+
+    height: 250px;
+    margin: 5px;
+    flex: 1;
+    background-color: azure;
+    text-align: center;
+}

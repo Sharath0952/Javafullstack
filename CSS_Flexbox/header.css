@@ -1,0 +1,37 @@
+section, div{
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    flex: 1;
+}
+section:nth-child(1){
+    flex: 3;
+}
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.services{
+    font-size: larger;
+    color: blue;
+    line-height: 50px;
+    font-weight: bold;
+
+}
+.logo{
+    color: red;
+    font-size: xx-large;
+    height: 75px;
+    font-weight: 900;
+    line-height: 50px;
+    padding-left: 150px;
+}
+.button{
+    background-color: red;
+    color: black;
+    height: 20px;
+    border-radius: 30px;
+    line-height: 18px;
+    font-weight: bold;
+
+}
